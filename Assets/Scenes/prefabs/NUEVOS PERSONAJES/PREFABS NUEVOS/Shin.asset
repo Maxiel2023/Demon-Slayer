@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8e168bb2ead8ca498eafed62a3cd90c, type: 3}
+  m_Name: Shin
+  m_EditorClassIdentifier: 
+  personajejugable2: {fileID: 2738838283884512666, guid: eda862b719f647d41ab68abf80c5b79b, type: 3}
+  imagen2: {fileID: 1460964324, guid: cca8006baec9f1b4588a527305bcfac4, type: 3}
+  ATAQUE1: {fileID: 794530079, guid: 53de87a9d04d3aa48a53e1ebe8f3b18f, type: 3}
+  ATAQUE2: {fileID: -1198351027, guid: c61c8354aafba26448bee455a4ea6b35, type: 3}
+  ATAQUE3: {fileID: -815278011, guid: 4c5fb0a53c2a9764ba06191916a60059, type: 3}
+  nombre2: Shinobu
+  vida2: 1200

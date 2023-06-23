@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d172ecd46c4719e40adccfdd7b58d0f1, type: 3}
+  m_Name: TOMIOKAAAAA
+  m_EditorClassIdentifier: 
+  personajejugable: {fileID: 735117073712578662, guid: f6b7687e7d7420b499f87049d5945c05, type: 3}
+  imagen: {fileID: -1531258512, guid: fac45db6e1390584aa2b9da35aacc232, type: 3}
+  ataque1: {fileID: 446101013, guid: fe994206ff2c3e041a7acb9486212eb4, type: 3}
+  ataque2: {fileID: 1761566723, guid: 332a2a3c9da107249b1088c6f596bcbe, type: 3}
+  ataque3: {fileID: -1984570142, guid: e84057fca275f2240b3fb491cc0732bd, type: 3}
+  nombre: Tomioka
+  vida: 1400

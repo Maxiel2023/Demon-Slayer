@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d172ecd46c4719e40adccfdd7b58d0f1, type: 3}
+  m_Name: SHINOBUUUUU
+  m_EditorClassIdentifier: 
+  personajejugable: {fileID: 3789499420852234941, guid: 7d3020d92fc7a7042b723b1ee7a3af7e, type: 3}
+  imagen: {fileID: 1460964324, guid: cca8006baec9f1b4588a527305bcfac4, type: 3}
+  ataque1: {fileID: 794530079, guid: 53de87a9d04d3aa48a53e1ebe8f3b18f, type: 3}
+  ataque2: {fileID: -1198351027, guid: c61c8354aafba26448bee455a4ea6b35, type: 3}
+  ataque3: {fileID: -815278011, guid: 4c5fb0a53c2a9764ba06191916a60059, type: 3}
+  nombre: Shinobu
+  vida: 1200

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8e168bb2ead8ca498eafed62a3cd90c, type: 3}
+  m_Name: Zen
+  m_EditorClassIdentifier: 
+  personajejugable2: {fileID: 3975240935628935336, guid: f8b991f2310d9e94aae463912f442912, type: 3}
+  imagen2: {fileID: -164595679, guid: 278ef397581b54a49839b2a015a99bc8, type: 3}
+  ATAQUE1: {fileID: -1311750133, guid: 74f0dc6d11bcf9a4cb5a8660c6ed3462, type: 3}
+  ATAQUE2: {fileID: 706117594, guid: cbf3552c81f31d340a9cbe04ed9a7a71, type: 3}
+  ATAQUE3: {fileID: -1048848448, guid: 09d24fc3e4414e94bac17ae0839fdc97, type: 3}
+  nombre2: Zemitsu
+  vida2: 1100

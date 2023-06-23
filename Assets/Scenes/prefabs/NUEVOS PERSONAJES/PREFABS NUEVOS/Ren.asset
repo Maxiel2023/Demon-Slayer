@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8e168bb2ead8ca498eafed62a3cd90c, type: 3}
+  m_Name: Ren
+  m_EditorClassIdentifier: 
+  personajejugable2: {fileID: 2952896132587122345, guid: f8b7873b3ade49847a2f395c2b57a146, type: 3}
+  imagen2: {fileID: -143822504, guid: 26366595cc955d5419964b2f81085fdf, type: 3}
+  ATAQUE1: {fileID: 470535924, guid: 7bd7b6aa5861eed498fe4ce23fe3cb9b, type: 3}
+  ATAQUE2: {fileID: 1040364367, guid: 921e75b3fed1403469e0f465a5644b35, type: 3}
+  ATAQUE3: {fileID: -1097389352, guid: 558822f231dd14d48b34b746826b8c96, type: 3}
+  nombre2: Rengoku
+  vida2: 1300
